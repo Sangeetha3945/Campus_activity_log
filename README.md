@@ -16,24 +16,15 @@ The application uses Flutter and Dart for mobile application development and SQL
 The application provides the following features:
 - Splash Screen: Displays the application name and introduction for approximately 3 seconds before navigating to the home screen.
 - View Activities: Displays saved campus activities in organised cards.
-
-Add Activity: Allows users to record a new campus activity.
-
-Activity Categories: Provides five categories: Academic, Sports, Club, Volunteer and Other.
-
-Form Validation: Checks required information before saving an activity.
-
-Save Confirmation: Displays a confirmation dialog before inserting a new activity.
-
-Activity Details: Allows users to view the complete information of a selected activity.
-
-Update Activity: Allows users to edit and update existing activity information.
-
-Delete Activity: Provides a confirmation dialog before deleting an activity.
-
-Refresh: Reloads the activity list from the SQLite database.
-
-Pagination: Displays a maximum of 10 activities per page, with Previous and Next navigation buttons.
+- Add Activity: Allows users to record a new campus activity.
+- Activity Categories: Provides five categories: Academic, Sports, Club, Volunteer and Other.
+- Form Validation: Checks required information before saving an activity.
+- Save Confirmation: Displays a confirmation dialog before inserting a new activity.
+- Activity Details: Allows users to view the complete information of a selected activity.
+- Update Activity: Allows users to edit and update existing activity information.
+- Delete Activity: Provides a confirmation dialog before deleting an activity.
+- Refresh: Reloads the activity list from the SQLite database.
+- Pagination: Displays a maximum of 10 activities per page, with Previous and Next navigation buttons.
 
 ## 3. Record Fields
 
@@ -156,10 +147,3 @@ The following technologies, packages and resources were used in developing this 
 - **sqflite:** Used to perform SQLite database operations.
 - **path:** Used to manage database file paths.
 - **Material Design Widgets and Icons:** Used to design the application's user interface.
-
-**Official Documentation:**
-
-- Flutter: https://docs.flutter.dev/
-- Dart: https://dart.dev/
-- sqflite: https://pub.dev/packages/sqflite
-- path: https://pub.dev/packages/path
