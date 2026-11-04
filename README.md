@@ -8,8 +8,6 @@
 
 ---
 
-# Campus Activity Log
-
 ## 1. Application Purpose
 
 Campus Activity Log is a mobile application developed using Flutter and Dart for university students to record and manage their campus activities.
