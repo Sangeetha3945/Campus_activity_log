@@ -14,17 +14,17 @@ The application uses Flutter and Dart for mobile application development and SQL
 ## 2. Application Features
 
 The application provides the following features:
-- Splash Screen: Displays the application name and introduction for approximately 3 seconds before navigating to the home screen.
-- View Activities: Displays saved campus activities in organised cards.
-- Add Activity: Allows users to record a new campus activity.
-- Activity Categories: Provides five categories: Academic, Sports, Club, Volunteer and Other.
-- Form Validation: Checks required information before saving an activity.
-- Save Confirmation: Displays a confirmation dialog before inserting a new activity.
-- Activity Details: Allows users to view the complete information of a selected activity.
-- Update Activity: Allows users to edit and update existing activity information.
-- Delete Activity: Provides a confirmation dialog before deleting an activity.
-- Refresh: Reloads the activity list from the SQLite database.
-- Pagination: Displays a maximum of 10 activities per page, with Previous and Next navigation buttons.
+- **Splash Screen:** Displays the application name and introduction for approximately 3 seconds before navigating to the home screen.
+- **View Activities:** Displays saved campus activities in organised cards.
+- **Add Activity:** Allows users to record a new campus activity.
+- **Activity Categories:** Provides five categories: Academic, Sports, Club, Volunteer and Other.
+- **Form Validation:** Checks required information before saving an activity.
+- **Save Confirmation:** Displays a confirmation dialog before inserting a new activity.
+- **Activity Details:** Allows users to view the complete information of a selected activity.
+- **Update Activity:** Allows users to edit and update existing activity information.
+- **Delete Activity:** Provides a confirmation dialog before deleting an activity.
+- **Refresh:** Reloads the activity list from the SQLite database.
+- **Pagination:** Displays a maximum of 10 activities per page, with Previous and Next navigation buttons.
 
 ## 3. Record Fields
 
