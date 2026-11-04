@@ -14,10 +14,8 @@ The application uses Flutter and Dart for mobile application development and SQL
 ## 2. Application Features
 
 The application provides the following features:
-
-Splash Screen: Displays the application name and introduction for approximately 3 seconds before navigating to the home screen.
-
-View Activities: Displays saved campus activities in organised cards.
+- Splash Screen: Displays the application name and introduction for approximately 3 seconds before navigating to the home screen.
+- View Activities: Displays saved campus activities in organised cards.
 
 Add Activity: Allows users to record a new campus activity.
 
