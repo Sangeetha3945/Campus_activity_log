@@ -1,7 +1,8 @@
 # Campus Activity Log
 
 **Name:** Sangeetha A/P Selvakumar        
-**Matric Number:** 309864           
+**Matric Number:** 309864      
+**Assignment:** Assignment 1         
 **Application Name:** Campus Activity Log
 
 ---
