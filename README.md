@@ -11,7 +11,33 @@ Campus Activity Log helps university students record, organise, view, update and
 
 The application uses Flutter and Dart for mobile application development and SQLite for local data storage.
 
-## 2. Record Fields
+## 2. Application Features
+
+The application provides the following features:
+
+Splash Screen: Displays the application name and introduction for approximately 3 seconds before navigating to the home screen.
+
+View Activities: Displays saved campus activities in organised cards.
+
+Add Activity: Allows users to record a new campus activity.
+
+Activity Categories: Provides five categories: Academic, Sports, Club, Volunteer and Other.
+
+Form Validation: Checks required information before saving an activity.
+
+Save Confirmation: Displays a confirmation dialog before inserting a new activity.
+
+Activity Details: Allows users to view the complete information of a selected activity.
+
+Update Activity: Allows users to edit and update existing activity information.
+
+Delete Activity: Provides a confirmation dialog before deleting an activity.
+
+Refresh: Reloads the activity list from the SQLite database.
+
+Pagination: Displays a maximum of 10 activities per page, with Previous and Next navigation buttons.
+
+## 3. Record Fields
 
 The application contains four main record fields:
 
@@ -31,7 +57,7 @@ The application contains four main record fields:
 
 The application includes form validation to ensure that all required information is entered before saving an activity.
 
-## 3. Database Structure
+## 4. Database Structure
 
 The application uses SQLite as its local database through the `sqflite` Flutter package.
 
@@ -62,7 +88,7 @@ The application supports the following database operations:
 
 The application also implements pagination, displaying a maximum of 10 activity records per page.
 
-## 4. Setup Instructions
+## 5. Setup Instructions
 
 ### Requirements
 
@@ -105,7 +131,7 @@ flutter run
 
 The application will run on the selected Android emulator or connected device.
 
-## 5. Main Application Flow
+## 6. Main Application Flow
 
 The application follows these steps:
 
@@ -139,9 +165,3 @@ The following technologies, packages and resources were used in developing this 
 - Dart: https://dart.dev/
 - sqflite: https://pub.dev/packages/sqflite
 - path: https://pub.dev/packages/path
-
----
-
-**Project Name:** Campus Activity Log  
-**Course:** Application Programming  
-**Assignment:** Assignment 1
