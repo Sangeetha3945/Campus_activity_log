@@ -8,11 +8,9 @@
 
 ## 1. Application Purpose
 
-Campus Activity Log is a mobile application developed using Flutter and Dart for university students to record and manage their campus activities.
+Campus Activity Log helps university students record, organise, view, update and manage their campus activities in one place. Students can keep track of activities such as academic programmes, sports, club activities and volunteering programmes and other activities.
 
-The application helps students keep their activities organised in one place. Students can add, view, update and delete activity records easily.
-
-The application supports different types of campus activities, including academic programmes, sports, club activities, volunteering and other activities.
+The application uses Flutter and Dart for mobile application development and SQLite for local data storage.
 
 ## 2. Record Fields
 
