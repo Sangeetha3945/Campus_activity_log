@@ -5,8 +5,6 @@
 **Assignment:** Assignment 1         
 **Application Name:** Campus Activity Log
 
----
-
 ## 1. Application Purpose
 
 Campus Activity Log helps university students record, organise, view, update and manage their campus activities in one place. Students can keep track of activities such as academic programmes, sports, club activities and volunteering programmes and other activities.
